@@ -12,7 +12,13 @@ Example:
 
 https://stackblitz.com/edit/1-fundamentals
 
+### 2. Working with Strings and Arrays
 
+*  Test should not be fragile
+
+Example: 
+
+https://stackblitz.com/edit/2-working-with-strings-and-arrays
 
 
 
