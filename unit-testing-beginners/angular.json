@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "unit-testing-beginners"
+  "defaultProject": "unit-testing-beginners",
+  "cli": {
+    "analytics": "51507c58-6c2c-4aaf-92e8-d541b3018cde"
+  }
 }
