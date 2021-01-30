@@ -62,3 +62,12 @@ https://stackblitz.com/edit/3-setup-and-teardown
 Demo:
 
 https://stackblitz.com/edit/4-working-with-forms
+
+### 5. Working with Event Emitters
+
+EventEmitters often we use @Output decorator in angular components.
+EventEmitters are observeables, we can subscribe to them.
+
+Demo:
+
+https://stackblitz.com/edit/5-event-emitter
