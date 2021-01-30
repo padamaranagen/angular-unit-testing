@@ -81,3 +81,8 @@ In Unit test, we don't want to touch the file system, database or callback of se
 Demo:
 
 https://stackblitz.com/edit/6-component-service-interaction
+
+
+### 7. Interaction Testing -- adding --Inserting data
+
+Demo:
