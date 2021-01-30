@@ -71,3 +71,13 @@ EventEmitters are observeables, we can subscribe to them.
 Demo:
 
 https://stackblitz.com/edit/5-event-emitter
+
+
+### 6. Working with Component,Service, Model and Mock
+
+In Unit test, we don't want to touch the file system, database or callback of services. so we'll create a fake service, this won't make any backend or service calls. It will return a simple observable.
+
+
+Demo:
+
+https://stackblitz.com/edit/6-component-service-interaction
